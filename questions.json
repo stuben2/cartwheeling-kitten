@@ -2,3 +2,8 @@
     {"id": "Open"},
     {"id": "OpenNew", "label": "Open New"}
 ]
+
+"more_items": [
+    {"id": "SaveAs"},
+    {"id": "SaveAs", "label": "Save As..."}
+]
