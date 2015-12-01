@@ -1,5 +1,5 @@
 var fear = fearGenerated(numPeeps, rainInInches, numSharks);
-
+var notUsed = ""
 
 var fearMessage = function() {
     if (fear < 200){
