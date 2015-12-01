@@ -7,3 +7,9 @@
     {"id": "SaveAs"},
     {"id": "SaveAs", "label": "Save As..."}
 ]
+
+{
+	"tags": ["bones"],
+	"question": "What is a patella?",
+	"answer": "The patella is a knee bone."
+}
