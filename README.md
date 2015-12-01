@@ -1,5 +1,7 @@
 ## cartwheeling-kitten
 
+# This software is Version 0.1
+
 ## This is a gratuitious line of code, added to make the file "dirty", for purposes of the Git lesson.
 
 ## Synopsis
