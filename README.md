@@ -4,6 +4,8 @@
 Collaborator, adding a line of code on line number 4.
 Project owner is modifying line 5 of the file.
 
+Adding a new line to the file as part of lecture 18.
+
 ## This is a gratuitious line of code, added to make the file "dirty", for purposes of the Git lesson.
 
 # This software contains a JSON database.
